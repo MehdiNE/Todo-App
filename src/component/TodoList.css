@@ -1,0 +1,14 @@
+.todo-list {
+  position: relative;
+  width: 100%;
+  min-height: 15%;
+  background-color: #420264;
+  border-radius: 10px;
+  margin-top: 1rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
